@@ -1,149 +1,214 @@
 <div align="center">
 
-# AUST Computer Science Lab
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:1E3A8A,50:2563EB,100:38BDF8&text=AUST%20Computer%20Science%20Lab&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Open%20Source%20%7C%20Campus%20Knowledge%20%7C%20Student%20Community&descAlignY=60&descSize=16" />
 
-**面向 AUST 学生的开源协作组织 · 记录校园信息 · 共建技术项目 · 分享学习经验**
+<br/>
 
-[![GitHub Org](https://img.shields.io/badge/GitHub-AUST--Computer--Science--Lab-181717?style=for-the-badge\&logo=github)](https://github.com/AUST-Computer-Science-Lab)
-[![Survive in AUST](https://img.shields.io/badge/Project-Survive%20in%20AUST-2ea44f?style=for-the-badge)](https://github.com/AUST-Computer-Science-Lab/survive-in-aust)
-[![Open Source](https://img.shields.io/badge/Open%20Source-Welcome-blue?style=for-the-badge\&logo=open-source-initiative)](https://github.com/AUST-Computer-Science-Lab)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=2563EB&center=true&vCenter=true&width=720&lines=面向+AUST+学生的开源协作组织;记录校园信息，沉淀学习经验;用开源连接同学，用协作创造价值" />
+
+<br/>
+<br/>
+
+<a href="https://github.com/AUST-Computer-Science-Lab">
+  <img src="https://img.shields.io/badge/GitHub-AUST--Computer--Science--Lab-181717?style=for-the-badge&logo=github" />
+</a>
+<a href="https://github.com/AUST-Computer-Science-Lab/survive-in-aust">
+  <img src="https://img.shields.io/badge/Project-Survive%20in%20AUST-2563EB?style=for-the-badge&logo=gitbook&logoColor=white" />
+</a>
+<a href="https://aust-computer-science-lab.github.io/survive-in-aust/">
+  <img src="https://img.shields.io/badge/Docs-Online%20Site-10B981?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<br/>
+<br/>
+
+**一个由学生发起、面向 AUST 学生的开源协作组织。**
 
 </div>
 
 ---
 
-## 👋 关于我们
+## ✨ 关于我们
 
-**AUST Computer Science Lab** 是一个由学生发起、共同维护的开源协作组织。
+**AUST Computer Science Lab** 是一个由学生共同建设的开源组织。
 
-我们关注校园信息整理、计算机学习资源建设、开源项目实践与技术经验分享，希望通过长期、公开、可协作的方式，为 AUST 学生提供更可靠、更易访问、更可持续的数字资源。
+我们希望通过公开、长期、可维护的方式，整理校园信息，沉淀学习经验，建设实用项目，让更多同学能够更高效地获取信息、学习技术、参与协作。
 
-我们相信：
+我们关注的不只是代码，也包括文档、经验、工具、资源与社区。
 
-* 信息应当清晰、可核验、可维护；
-* 技术应当服务真实需求；
-* 开源协作能够让学生项目走得更远；
-* 每一次 Issue、Pull Request 和文档修正，都是社区建设的一部分。
+> 用开源记录经验，用协作连接同学。
+> From students, for students.
 
 ---
 
-## 🚀 我们正在做什么
+## 🌟 我们正在建设
+
+<table>
+<tr>
+<td width="50%">
 
 ### 📖 Survive in AUST
 
-**安徽理工大学生存手册 / Survive in AUST**
-一个由学生发起、共同维护的 AUST 非官方信息参考手册。
+安徽理工大学生存手册。
 
-项目地址：
-https://github.com/AUST-Computer-Science-Lab/survive-in-aust
+这是一个面向 AUST 学生的非官方信息参考手册，内容覆盖入学指南、校园生活、学习教务、专业发展、竞赛科研、升学毕业和常用信息速查等方向。
 
-在线站点：
-https://aust-computer-science-lab.github.io/survive-in-aust/
+<br/>
 
-该项目致力于整理入学、校园生活、学习教务、专业发展、竞赛科研、升学毕业、常用信息速查等内容，为同学们提供结构化、可检索、可持续维护的校园参考资料。
+<a href="https://github.com/AUST-Computer-Science-Lab/survive-in-aust">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AUST-Computer-Science-Lab&repo=survive-in-aust&theme=transparent&hide_border=true&title_color=2563EB&text_color=334155&icon_color=2563EB" />
+</a>
 
-> 本项目不是学校、学院、部门或任何官方组织项目。所有内容仅供参考，涉及政策、流程、时间、地点、费用、联系方式等信息时，请以学校及学院最新官方通知为准。
+</td>
+<td width="50%">
 
----
+### 🧩 组织主页与公共配置
 
-## 🧭 组织方向
+用于维护组织介绍、公共说明、协作规范和项目入口。
 
-我们希望逐步建设以下类型的项目：
+这里会逐步沉淀组织的贡献指南、项目模板、Issue 模板、Pull Request 模板等内容。
 
-| 方向     | 内容                      |
-| ------ | ----------------------- |
-| 校园信息整理 | 新生指南、校园生活、学习教务、常用信息速查   |
-| 学习资源建设 | 课程笔记、复习资料、实验记录、学习路线     |
-| 开源项目实践 | Web 应用、文档站点、自动化脚本、工具平台  |
-| 技术经验分享 | 编程语言、开发工具、工程实践、竞赛经验     |
-| 社区协作规范 | Issue、PR、贡献指南、内容核验、隐私保护 |
+<br/>
 
----
+<a href="https://github.com/AUST-Computer-Science-Lab/.github">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AUST-Computer-Science-Lab&repo=.github&theme=transparent&hide_border=true&title_color=2563EB&text_color=334155&icon_color=2563EB" />
+</a>
 
-## 🛠️ 技术栈
-
-我们目前主要使用：
-
-<p>
-  <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white" />
-  <img src="https://img.shields.io/badge/VitePress-646CFF?style=flat-square&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000" />
-  <img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=flat-square&logo=githubpages&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
-</p>
-
-未来会根据项目需要逐步引入更多技术栈，例如：
-
-* TypeScript / Node.js
-* Vue / React
-* Go / Python
-* 数据可视化与自动化工具
-* AI 辅助学习与校园服务应用
+</td>
+</tr>
+</table>
 
 ---
 
-## 🤝 如何参与
+## 🧭 我们关注的方向
 
-我们欢迎任何形式的贡献：
+<div align="center">
 
-* 发现内容错误，提交 Issue；
-* 补充校园信息，提交 Pull Request；
-* 修正文档错别字、链接失效、格式问题；
-* 提供可靠来源，帮助核验内容；
-* 参与项目开发、页面优化、脚本维护；
-* 分享学习经验、竞赛经验、开发经验。
+| 方向        | 我们希望做什么                      |
+| --------- | ---------------------------- |
+| 📚 校园信息整理 | 整理新生指南、校园生活、学习教务、常用信息速查      |
+| 💻 开源项目实践 | 建设文档站点、工具平台、自动化脚本与校园服务应用     |
+| 🧠 学习资源沉淀 | 维护课程笔记、复习资料、实验记录和学习路线        |
+| 🚀 技术经验分享 | 分享编程语言、开发工具、工程实践、竞赛经验        |
+| 🤝 社区协作规范 | 完善 Issue、PR、贡献指南、内容核验和隐私保护机制 |
 
-如果你是第一次参与开源，可以从这些事情开始：
+</div>
 
-1. 阅读已有项目的 `README.md` 和 `CONTRIBUTING.md`；
-2. 在 Issue 区查看是否有适合自己的任务；
-3. Fork 仓库并创建新分支；
-4. 修改内容后提交 Pull Request；
-5. 根据维护者反馈继续完善。
+---
+
+## 🛠️ 技术栈与工具
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=github,git,md,js,ts,vue,vite,nodejs,python,go,vscode&theme=light" />
+
+<br/>
+<br/>
+
+<img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white" />
+<img src="https://img.shields.io/badge/VitePress-646CFF?style=flat-square&logo=vite&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=flat-square&logo=githubpages&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+<img src="https://img.shields.io/badge/Open%20Source-Welcome-10B981?style=flat-square&logo=open-source-initiative&logoColor=white" />
+
+</div>
+
+---
+
+## 🤝 如何参与贡献
+
+我们欢迎任何形式的贡献。
+
+你可以：
+
+* 修正文档中的错别字、失效链接或格式问题；
+* 补充校园生活、学习教务、课程经验等内容；
+* 提交 Issue 反馈错误、提出建议或申请新增章节；
+* 提交 Pull Request 完善文档、代码或页面；
+* 参与项目开发、站点优化、自动化脚本维护；
+* 分享学习经验、竞赛经验、升学经验和开发经验。
+
+### 第一次参与开源？
+
+可以从这里开始：
+
+```bash
+# 1. Fork 仓库
+# 2. Clone 到本地
+git clone https://github.com/你的用户名/survive-in-aust.git
+
+# 3. 创建新分支
+git checkout -b docs/update-content
+
+# 4. 修改内容并提交
+git add .
+git commit -m "docs: update campus guide"
+
+# 5. Push 并提交 Pull Request
+git push origin docs/update-content
+```
 
 ---
 
 ## ✅ 内容原则
 
-为了保证项目长期可用，我们特别重视以下原则：
+为了让项目长期可靠、可维护，我们遵循以下原则。
 
-### 真实性
+<table>
+<tr>
+<td width="25%" align="center">
+
+### 🔍 真实
 
 不编造、不夸大、不传播未经核实的信息。
-无法确认的信息应标记为“待核实”，不应写成确定事实。
 
-### 可维护性
+</td>
+<td width="25%" align="center">
 
-内容应结构清晰、来源明确、便于后续维护者更新。
-过期信息应及时标注或修正。
+### 🧱 可维护
 
-### 隐私保护
+结构清晰，来源明确，便于后续更新。
 
-不得公开学生个人手机号、邮箱、学号、身份证号、宿舍精确位置、群二维码、系统凭据、Cookie、Token、未公开联系方式或包含敏感信息的截图。
+</td>
+<td width="25%" align="center">
 
-### 非官方声明
+### 🛡️ 保护隐私
 
-本组织及其项目不代表安徽理工大学、学院、部门、教师或任何官方学生组织立场。
-项目内容仅供参考，请以官方最新通知为准。
+不公开个人敏感信息、凭据、Token 或隐私截图。
+
+</td>
+<td width="25%" align="center">
+
+### 📌 非官方
+
+内容仅供参考，请以学校及学院最新官方通知为准。
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📌 推荐仓库
+## 📌 推荐项目
+
+<div align="center">
 
 | 项目                                                                              | 简介                              | 状态  |
 | ------------------------------------------------------------------------------- | ------------------------------- | --- |
 | [survive-in-aust](https://github.com/AUST-Computer-Science-Lab/survive-in-aust) | 安徽理工大学生存手册，面向 AUST 学生的非官方信息参考手册 | 建设中 |
-| [.github](https://github.com/AUST-Computer-Science-Lab/.github)                 | 组织主页与公共配置仓库                     | 维护中 |
+| [.github](https://github.com/AUST-Computer-Science-Lab/.github)                 | 组织主页、公共配置与协作说明                  | 维护中 |
+
+</div>
 
 ---
 
-## 🌱 我们期待这样的成员
+## 🌱 我们期待这样的你
 
-无论你是刚入门的新生，还是已经有项目经验的开发者，都可以参与进来。
+无论你是刚接触 GitHub 的新生，还是已经有项目经验的开发者，都可以参与进来。
 
 你可以是：
 
-* 想学习 Git / GitHub / Markdown 的同学；
+* 想学习 Git、GitHub、Markdown 的同学；
 * 想把经验整理给后来者的学长学姐；
 * 想参与真实开源项目实践的开发者；
 * 想改进校园信息透明度和可访问性的维护者；
@@ -153,22 +218,32 @@ https://aust-computer-science-lab.github.io/survive-in-aust/
 
 ## 📮 联系与交流
 
-目前推荐通过 GitHub 参与协作：
+目前推荐通过 GitHub 进行协作：
 
-* 使用 Issue 反馈问题或提出建议；
-* 使用 Pull Request 贡献内容或代码；
-* 在具体项目仓库中查看贡献指南和维护说明。
+<div align="center">
 
-组织主页：
-https://github.com/AUST-Computer-Science-Lab
+<a href="https://github.com/AUST-Computer-Science-Lab">
+  <img src="https://img.shields.io/badge/Organization-AUST%20Computer%20Science%20Lab-181717?style=for-the-badge&logo=github" />
+</a>
+<a href="https://github.com/AUST-Computer-Science-Lab/survive-in-aust/issues">
+  <img src="https://img.shields.io/badge/Issues-反馈问题-DC2626?style=for-the-badge&logo=githubissues&logoColor=white" />
+</a>
+<a href="https://github.com/AUST-Computer-Science-Lab/survive-in-aust/pulls">
+  <img src="https://img.shields.io/badge/Pull%20Requests-参与贡献-16A34A?style=for-the-badge&logo=git&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
 <div align="center">
 
-**AUST Computer Science Lab**
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:38BDF8,50:2563EB,100:1E3A8A" />
+
+### AUST Computer Science Lab
+
+**Open Source · Campus Knowledge · Student Community**
 
 用开源记录经验，用协作连接同学。
-From students, for students.
 
 </div>
