@@ -4,10 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=2563EB&center=true&vCenter=true&width=720&lines=面向+AUST+学生的开源协作组织;记录校园信息，沉淀学习经验;用开源连接同学，用协作创造价值" />
-
-<br/>
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=600&size=22&pause=1200&color=2563EB&center=true&vCenter=true&width=720&lines=%E9%9D%A2%E5%90%91+AUST+%E5%AD%A6%E7%94%9F%E7%9A%84%E5%BC%80%E6%BA%90%E5%8D%8F%E4%BD%9C%E7%BB%84%E7%BB%87;%E8%AE%B0%E5%BD%95%E6%A0%A1%E5%9B%AD%E4%BF%A1%E6%81%AF%EF%BC%8C%E6%B2%89%E6%B7%80%E5%AD%A6%E4%B9%A0%E7%BB%8F%E9%AA%8C;%E7%94%A8%E5%BC%80%E6%BA%90%E8%BF%9E%E6%8E%A5%E5%90%8C%E5%AD%A6%EF%BC%8C%E7%94%A8%E5%8D%8F%E4%BD%9C%E5%88%9B%E9%80%A0%E4%BB%B7%E5%80%BC" />
 
 <a href="https://github.com/AUST-Computer-Science-Lab">
   <img src="https://img.shields.io/badge/GitHub-AUST--Computer--Science--Lab-181717?style=for-the-badge&logo=github" />
